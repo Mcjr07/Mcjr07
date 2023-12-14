@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1500&color=299561&width=600&height=70&lines=Welcome+to+my+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h1 align="center">I'm Marcelo Cunha Jr.</h1>
-<h3 align="center">Back-End Development Student 👩‍💻💻 working in tech since 2022 🚀
+<h3 align="center">"I have a degree in Back-End Development, and I enjoy working with the .NET ecosystem and SQL Server. While my focus is primarily on Back-End development, I also like to venture into Front-End development. I'm passionate about the possibilities that technology brings and consider myself a lifelong learner, always ready for new challenges." 🚀
 PcD 👁️🧑‍🦽
 </h3>
 
