@@ -10,6 +10,12 @@ PcD 👁️🧑‍🦽
 <a href="https://www.linkedin.com/in/marcelus-cunhajr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelus-cunhajr/" height="30" width="40" /></a>
 </p>
 
+
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -35,7 +41,7 @@ PcD 👁️🧑‍🦽
 
 </td><td valign="top" width="33%">
 
-### QA - UI Automation  
+### QA / Test Automation  
 <div align="center">  
 <a href="https://www.selenium.dev/" target="_blank">
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" height="50" />
@@ -45,27 +51,6 @@ PcD 👁️🧑‍🦽
 </a>  
 <a href="https://www.cypress.io/" target="_blank">
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="Cypress" height="50" />
-</a>  
-</div>
-
-### QA - API Testing  
-<div align="center">  
-<a href="https://www.postman.com/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
-</a>  
-</div>
-
-### QA - Performance  
-<div align="center">  
-<a href="https://jmeter.apache.org/" target="_blank">
-<img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" height="50" />
-</a>  
-</div>
-
-### QA - Unit Test  
-<div align="center">  
-<a href="https://junit.org/junit5/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" alt="JUnit" height="50" />
 </a>  
 </div>
 
