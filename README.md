@@ -10,12 +10,10 @@ PcD 👁️🧑‍🦽
 <a href="https://www.linkedin.com/in/marcelus-cunhajr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelus-cunhajr/" height="30" width="40" /></a>
 </p>
 
-
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
