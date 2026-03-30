@@ -28,15 +28,48 @@ PcD 👁️🧑‍🦽
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 </div>
+
 </td><td valign="top" width="33%">
 
+### QA - UI Automation  
+<div align="center">  
+<a href="https://www.selenium.dev/" target="_blank">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" height="50" />
+</a>  
+<a href="https://playwright.dev/" target="_blank">
+<img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" />
+</a>  
+<a href="https://www.cypress.io/" target="_blank">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="Cypress" height="50" />
+</a>  
 </div>
-</td></tr></table>  
 
+### QA - API Testing  
+<div align="center">  
+<a href="https://www.postman.com/" target="_blank">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
+</a>  
+</div>
+
+### QA - Performance  
+<div align="center">  
+<a href="https://jmeter.apache.org/" target="_blank">
+<img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" height="50" />
+</a>  
+</div>
+
+### QA - Unit Test  
+<div align="center">  
+<a href="https://junit.org/junit5/" target="_blank">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" alt="JUnit" height="50" />
+</a>  
+</div>
+
+</td></tr></table>
 
 <br/>
 
