@@ -54,25 +54,6 @@ PcD 👁️🧑‍🦽
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="50" />
 </a>
 </div>
-
----
-### QA - UI Automation  ### QA - API Testing 
-<div align="center">  
-
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" />
-</a>
-<a href="https://playwright.dev/" target="_blank">
-<img src="https://playwright.dev/img/playwright-logo.svg" height="50" />
-</a>
-<a href="https://www.cypress.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="50" />
-</a>
-<div align="center">  
-<a href="https://jmeter.apache.org/" target="_blank">
-<img src="https://jmeter.apache.org/images/logo.svg" height="50" />
-</a>
-
 </div>
 
 <br/>
