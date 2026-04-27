@@ -56,54 +56,26 @@ PcD 👁️🧑‍🦽
 </div>
 
 ---
-### QA - UI Automation  
+### QA - UI Automation  ### QA - API Testing 
 <div align="center">  
 
 <a href="https://www.selenium.dev/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" />
 </a>
-
 <a href="https://playwright.dev/" target="_blank">
 <img src="https://playwright.dev/img/playwright-logo.svg" height="50" />
 </a>
-
 <a href="https://www.cypress.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="50" />
 </a>
-
-</div>
----
-
-### QA - API Testing  
-<div align="center">  
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" />
-</a>
-</div>
-
----
-
-### QA - Performance  
 <div align="center">  
 <a href="https://jmeter.apache.org/" target="_blank">
 <img src="https://jmeter.apache.org/images/logo.svg" height="50" />
 </a>
+
 </div>
 
----
-
-### QA - Unit Test  
-<div align="center">  
-<a href="https://junit.org/junit5/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" height="50" />
-</a>
-</div>  
-
 <br/>
-
-
-<br/>
-
 
 </div>  
 
